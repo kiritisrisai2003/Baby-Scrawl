@@ -455,7 +455,7 @@ class Game {
         const jumpTexture = textureLoader.load('/jump.png');
 
         const obstacleTypes = [
-            //{ type: 'box', texture: boxTexture, scale: 0.5 },
+            { type: 'box', texture: boxTexture, scale: 0.5 },
             { type: 'wall', texture: wallTexture, scale: 0.5 },
             { type: 'jump', texture: jumpTexture, scale: 0.5 }
         ];
