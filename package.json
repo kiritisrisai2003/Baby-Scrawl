@@ -1,0 +1,16 @@
+{
+  "name": "space-baby-crawler",
+  "version": "1.0.0",
+  "description": "A 3D endless runner game featuring a baby crawling through space",
+  "main": "game.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "three": "^0.160.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+} 
